@@ -2,7 +2,7 @@
     
     随着小程序的发展，家政服务小程序的出现，为家政行业带来了新的商机。家政服务平台系统包含家用电器安装清洗、搬家、家电维修、管道疏通、月嫂保姆、育儿陪护、上门开锁等多种服务项目，用户可以直接通过家政小程序咨询，在线预约服务类型，同时还设置有知识科普，给用户科普一些清洁保养小技巧，让用户能够足不出户就可以直接预约服务，方便又快捷。 采用腾讯提供的小程序云开发解决方案，无须服务器和域名。
 
-![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![image](https://user-images.githubusercontent.com/101554209/158140487-0b5498ff-1103-4cec-b7ce-7d5e49839335.png)
  
 
 ## 技术运用
@@ -17,12 +17,12 @@
 ## 作者
 - 如有疑问，欢迎骚扰联系我鸭：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
 - 俺的微信:
- ![输入图片说明](https://gitee.com/naive2021/smartcollege/raw/master/demo/author.jpg)
+![image](https://user-images.githubusercontent.com/101554209/158140526-ca886367-0651-4bbd-a205-ea59a8d174da.png)
 
 
 
 ## 演示
- ![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![image](https://user-images.githubusercontent.com/101554209/158140498-b3267df5-0307-40e4-b731-6774615b8060.png)
  
 
 ## 安装
@@ -33,27 +33,35 @@
 
 
 ## 截图
+![image](https://user-images.githubusercontent.com/101554209/158140549-a8d694da-25d3-4f0f-be1d-8e92765ecc35.png)
+![image](https://user-images.githubusercontent.com/101554209/158140566-bbf0bd68-dc6d-4ec1-8515-c6cca71b962b.png)
 
- ![输入图片说明](demo/%E9%A6%96%E9%A1%B5.png)
+![image](https://user-images.githubusercontent.com/101554209/158140576-144f1388-f0ad-4b4d-999d-161534e837a1.png)
+![image](https://user-images.githubusercontent.com/101554209/158140591-cd63341a-07aa-4e6f-a83b-2aef043d880a.png)
+![image](https://user-images.githubusercontent.com/101554209/158140602-7c867c60-d151-415a-b7c0-7f65c5113271.png)
+![image](https://user-images.githubusercontent.com/101554209/158140615-f9e918e9-c6b0-4fd7-937e-de0f15d6b1cf.png)
+![image](https://user-images.githubusercontent.com/101554209/158140625-c1bf418b-a5dc-4bd0-a6fc-eb68d2c0b9b1.png)
+![image](https://user-images.githubusercontent.com/101554209/158140639-4dca7293-20f1-4003-a3f0-0f9741b1d703.png)
+![image](https://user-images.githubusercontent.com/101554209/158140653-baba8f44-27e1-4e0f-9764-0d20c67ceff8.png)
+![image](https://user-images.githubusercontent.com/101554209/158140666-f323220c-95f5-4304-9f27-18a50a726ab3.png)
+![image](https://user-images.githubusercontent.com/101554209/158140683-99569406-871c-4228-8a5a-f3a3b9a559da.png)
+![image](https://user-images.githubusercontent.com/101554209/158140694-be4403e5-eb58-49b0-9a9a-0b4ee37a7eb0.png)
 
-![输入图片说明](demo/%E7%BB%B4%E4%BF%AE.png)
-![输入图片说明](demo/%E6%88%91%E7%9A%84.png)
-![输入图片说明](demo/%E6%97%A5%E5%8E%86.png)
-![输入图片说明](demo/%E6%88%91%E7%9A%84%E9%A2%84%E7%BA%A6%E8%AF%A6%E6%83%85.png)
-![输入图片说明](demo/%E9%A2%84%E7%BA%A6.png)
-![输入图片说明](demo/%E9%A2%84%E7%BA%A6%E8%AF%A6%E6%83%85.png)
-
-![输入图片说明](demo/%E5%B0%8F%E9%BB%91%E6%9D%BF.png)
-![输入图片说明](demo/%E6%9C%8D%E5%8A%A1%E4%BB%8B%E7%BB%8D.png)
-![输入图片说明](demo/%E4%BF%9D%E5%A7%86.png)
-![输入图片说明](demo/%E4%BF%9D%E6%B4%81%E6%B8%85%E6%B4%97.png)
-![输入图片说明](demo/%E6%90%AC%E5%AE%B6.png)
+ 
 
 ## 后台管理系统截图
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E6%B7%BB%E5%8A%A0.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E6%97%B6%E6%AE%B5%E8%AE%BE%E7%BD%AE.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0%E5%AF%BC%E5%87%BA.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0--%E5%90%8D%E5%8D%95.png)
-![输入图片说明](demo/%E5%90%8E%E5%8F%B0-%E5%86%85%E5%AE%B9.png)
+![image](https://user-images.githubusercontent.com/101554209/158140755-4d1a724f-71ec-4fe4-94e5-6c6f1b8328bc.png)
+![image](https://user-images.githubusercontent.com/101554209/158140894-7ba9c4ad-51f2-48f5-a938-7f7232433b4e.png)
+![image](https://user-images.githubusercontent.com/101554209/158140901-fa9d7406-ac96-4fac-9a5d-3fc17126cd5a.png)
+![image](https://user-images.githubusercontent.com/101554209/158140909-6b989260-9e69-450e-8841-16cf048f76ac.png)
+![image](https://user-images.githubusercontent.com/101554209/158140921-1653b810-bff8-4933-8c84-b85bd45c801d.png)
+![image](https://user-images.githubusercontent.com/101554209/158140942-92d3b1c3-7e0b-4010-a235-ca103a3b9213.png)
+
+![image](https://user-images.githubusercontent.com/101554209/158140957-ae122856-afd0-43a0-8a1b-9fa2953c96f4.png)
+
+
+
+
+
+
+ 
