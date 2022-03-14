@@ -1,0 +1,6 @@
+@import "../../skin/skin.wxss"; 
+@import "../../../../style/project/calendar_index_base.wxss";
+
+.cal-center .num-grid.now-day-cur.calendar-bg {
+    color: #333 !important;
+}
